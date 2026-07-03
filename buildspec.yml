@@ -2,7 +2,7 @@ version: 0.2
 env:
   variables:
     AWS_DEFAULT_REGION: us-east-1
-    ACCOUNT_ID: 849825953894
+    ACCOUNT_ID: 998179619550
 phases:
   pre_build:
     commands:
